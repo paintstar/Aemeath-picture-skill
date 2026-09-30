@@ -1,8 +1,5 @@
 # Aemeath 图片生成 Skill
 
-> **发布进行中，素材尚未齐全。** 技能文本、配置与 6 张 JPEG 原始参考已上传；以下 4 张 PNG 仍待补齐，当前仓库不能作为完整素材包使用。
-> `assets/originals/29008.png`、`assets/originals/158616c7bc2fcc57164ca2803f5dface448738328.png`、`assets/approved/natural-window-selfie.png`、`assets/approved/anime-greeting.png`
-
 为 Aemeath／爱弥斯／小爱生成保留角色辨识度的自拍、日常新图和二次元插画。随包附带 8 张原始参考与 2 张认可示例。
 
 ## 两种模式
@@ -34,6 +31,10 @@
 - `assets/originals/`：8 张原始参考图
 - `assets/approved/`：2 张已认可的生成示例
 - `agents/openai.yaml` 与 `assets/icon.svg`：技能展示配置与图标
+
+## 图片命名
+
+图片统一使用描述性的英文小写连字符命名，以画风和内容区分，例如 `anime-wink-victory.jpg`、`game-smile-closeup.png`。JPEG 使用 `.jpg`，PNG 使用 `.png`；重命名不转换或改动图像内容。原始参考放在 `assets/originals/`，认可成品放在 `assets/approved/`。
 
 ## 新构图与局限
 

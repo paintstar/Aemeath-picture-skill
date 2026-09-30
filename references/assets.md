@@ -2,18 +2,20 @@
 
 以下文件均已随技能保存，路径相对技能根目录。原始参考与已认可的生成成品分开存放，勿互相冒充。
 
+命名统一采用描述性的英文小写连字符；JPEG 使用 `.jpg`，PNG 使用 `.png`。文件名描述画风与内容，图片内容保持原样。
+
 ## 原始参考
 
-- `assets/originals/IMG_5700.jpeg`：眨眼比耶。开心、收到、打招呼、轻松庆祝表情；近距离发型和脸部参考
-- `assets/originals/IMG_5704.jpeg`：合掌开心笑（正面）。谢谢、拜托、期待、开心表情；表情参考
-- `assets/originals/IMG_5703.jpeg`：合掌开心笑（侧脸）。开心、感谢、期待表情；侧脸与笑容参考
-- `assets/originals/IMG_5702.jpeg`：鼓腮叉手指。不行、拒绝、假装生气、小抗议表情
-- `assets/originals/IMG_5701.jpeg`：托腮问号。疑惑、思考、没听懂、询问表情；双眼和脸部参考
-- `assets/originals/140045076_p0_master1200.jpeg`：白手套眨眼比耶。通用快乐/收到表情；脸、发型、饰品、服装上半部的清楚生成参考
-- `assets/originals/158616c7bc2fcc57164ca2803f5dface448738328.png`：蓝色梦幻场景半身。服装、长发轮廓、梦幻环境、配色与较完整半身构图参考
-- `assets/originals/29008.png`：闭眼温柔笑。温柔回应、安心、鼓励、晚安表情；渲染风格、领饰和笑容参考
+- `assets/originals/anime-wink-victory.jpg`：眨眼比耶。开心、收到、打招呼、轻松庆祝表情；近距离发型和脸部参考
+- `assets/originals/anime-clasped-hands-front.jpg`：合掌开心笑（正面）。谢谢、拜托、期待、开心表情；表情参考
+- `assets/originals/anime-clasped-hands-side.jpg`：合掌开心笑（侧脸）。开心、感谢、期待表情；侧脸与笑容参考
+- `assets/originals/anime-pout-no.jpg`：鼓腮叉手指。不行、拒绝、假装生气、小抗议表情
+- `assets/originals/anime-curious-chin-rest.jpg`：托腮问号。疑惑、思考、没听懂、询问表情；双眼和脸部参考
+- `assets/originals/anime-wink-white-background.jpg`：白手套眨眼比耶。通用快乐/收到表情；脸、发型、饰品、服装上半部的清楚生成参考
+- `assets/originals/illustration-blue-floral.png`：蓝色梦幻场景半身。服装、长发轮廓、梦幻环境、配色与较完整半身构图参考
+- `assets/originals/game-smile-closeup.png`：闭眼温柔笑。温柔回应、安心、鼓励、晚安表情；渲染风格、领饰和笑容参考
 
-这些原图是不透明矩形图，不是透明贴纸；`IMG_5704.jpeg` 底部有原有深色条。仅转发原图时保持原样，裁切或抠图按用户请求处理。
+这些原图是不透明矩形图，不是透明贴纸；`anime-clasped-hands-front.jpg` 底部有原有深色条。仅转发原图时保持原样，裁切或抠图按用户请求处理。
 
 ## 风格示例成品
 

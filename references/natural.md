@@ -3,9 +3,9 @@
 ## 素材分工
 
 按此顺序使用原始参考（路径相对技能根目录）：
-1. `assets/originals/29008.png`：主要渲染参考，游戏赛璐璐观感；细红棕线、清楚的脸颈阴影边界、哑光皮肤、克制高光与分组发束
-2. `assets/originals/140045076_p0_master1200.jpeg`：脸型、睁开的金色星瞳、分层刘海、羽翼和小发夹；不要让这张较柔的插画覆盖第 1 张的渲染规则
-3. `assets/originals/158616c7bc2fcc57164ca2803f5dface448738328.png`：完整高马尾轮廓、原服装、颈肩与半身比例
+1. `assets/originals/game-smile-closeup.png`：主要渲染参考，游戏赛璐璐观感；细红棕线、清楚的脸颈阴影边界、哑光皮肤、克制高光与分组发束
+2. `assets/originals/anime-wink-white-background.jpg`：脸型、睁开的金色星瞳、分层刘海、羽翼和小发夹；不要让这张较柔的插画覆盖第 1 张的渲染规则
+3. `assets/originals/illustration-blue-floral.png`：完整高马尾轮廓、原服装、颈肩与半身比例
 
 质检标尺：`assets/approved/natural-window-selfie.png`（1086×1448）。认可点是新居家自拍构图、清秀脸型、自然笑意、游戏般哑光赛璐璐质感。原图并非要求真人摄影；背景可以有轻度空间柔化，但人物不要变成光滑塑料娃娃。
 

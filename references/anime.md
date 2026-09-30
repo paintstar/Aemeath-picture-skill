@@ -3,11 +3,11 @@
 ## 素材分工
 
 按此顺序使用原始参考（路径相对技能根目录）：
-1. `assets/originals/IMG_5700.jpeg`：轻盈二维线条、粉色调、刘海／马尾与灵动笑容
-2. `assets/originals/IMG_5701.jpeg`：双眼金色星光、清秀脸型、饰品轮廓
-3. `assets/originals/IMG_5702.jpeg`：二维色块、衣领胸饰和手部表现
+1. `assets/originals/anime-wink-victory.jpg`：轻盈二维线条、粉色调、刘海／马尾与灵动笑容
+2. `assets/originals/anime-curious-chin-rest.jpg`：双眼金色星光、清秀脸型、饰品轮廓
+3. `assets/originals/anime-pout-no.jpg`：二维色块、衣领胸饰和手部表现
 
-这三张共同控制画风与身份，不复制它们的比耶、托腮或交叉手指动作。需要闭眼笑的细节时，可看 `assets/originals/IMG_5704.jpeg` 与 `assets/originals/IMG_5703.jpeg`。
+这三张共同控制画风与身份，不复制它们的比耶、托腮或交叉手指动作。需要闭眼笑的细节时，可看 `assets/originals/anime-clasped-hands-front.jpg` 与 `assets/originals/anime-clasped-hands-side.jpg`。
 
 质检标尺：`assets/approved/anime-greeting.png`（1254×1254）。认可点是清亮的细线、浅粉与白色的色块、少量赛璐璐阴影、星瞳和自然挥手。不要把自然风游戏截图或旧自然风成品混作本模式的主要画风参考。
 
