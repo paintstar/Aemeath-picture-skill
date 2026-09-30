@@ -1,5 +1,8 @@
 # Aemeath 图片生成 Skill
 
+> **发布进行中，素材尚未齐全。** 技能文本、配置与 6 张 JPEG 原始参考已上传；以下 4 张 PNG 仍待补齐，当前仓库不能作为完整素材包使用。
+> `assets/originals/29008.png`、`assets/originals/158616c7bc2fcc57164ca2803f5dface448738328.png`、`assets/approved/natural-window-selfie.png`、`assets/approved/anime-greeting.png`
+
 为 Aemeath／爱弥斯／小爱生成保留角色辨识度的自拍、日常新图和二次元插画。随包附带 8 张原始参考与 2 张认可示例。
 
 ## 两种模式

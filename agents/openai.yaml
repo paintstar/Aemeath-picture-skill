@@ -1,0 +1,13 @@
+interface:
+  display_name: 小爱图片
+  short_description: 按照两种已认可的画风，生成保留角色辨识度的小爱自拍与日常新图
+  default_prompt: 使用 $generate-aemeath-images 给我一张小爱的自然风自拍。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
